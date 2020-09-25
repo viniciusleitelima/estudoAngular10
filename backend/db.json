@@ -1,0 +1,15 @@
+{
+    "products":[{
+        "id":1,
+        "name": "caneta",
+        "price":5.89
+    },{
+        "id":2,
+        "name": "notebook",
+        "price":1200.50
+    },{
+        "id":3,
+        "name": "celular",
+        "price":5000.89
+    }]
+}
